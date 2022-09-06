@@ -89,3 +89,4 @@ int WINAPI WinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance, _
 
 //変更しました。
 //反抗しました。
+//ぴょんぴょんしました。
